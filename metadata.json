@@ -1,0 +1,6 @@
+{
+  "name": "Pulore DocQA",
+  "description": "AI-powered Document Q&A Assistant using Retrieval-Augmented Generation (RAG) with PostgreSQL pgvector semantic search and grounded page-level source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
